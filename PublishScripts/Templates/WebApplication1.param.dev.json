@@ -1,0 +1,29 @@
+{
+  "siteName": {
+    "value": "WebApplication19203"
+  },
+  "hostingPlanName": {
+    "value": "AppPlan"
+  },
+  "siteLocation": {
+    "value": "North Europe"
+  },
+  "sku": {
+    "value": "Free"
+  },
+  "workerSize": {
+    "value": "0"
+  },
+  "siteMode": {
+    "value": "Limited"
+  },
+  "computeMode": {
+    "value": "0"
+  },
+  "subscriptionId": {
+    "value": "0bf0c1ed-2ddd-4742-8adb-4a80b6ed1b6c"
+  },
+  "resourceGroup": {
+    "value": "paksv-test-arm-group"
+  }
+}
